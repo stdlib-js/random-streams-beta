@@ -543,6 +543,23 @@ $ random-beta 2.0 1.0 -n 10 --seed 1234
 
 <!-- /.cli -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/random/base/beta`][@stdlib/random/base/beta]: beta distributed pseudorandom numbers.
+-   [`@stdlib/random/iter/beta`][@stdlib/random/iter/beta]: create an iterator for generating pseudorandom numbers drawn from a beta distribution.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -607,6 +624,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [beta]: https://en.wikipedia.org/wiki/Beta_distribution
 
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
+
+<!-- <related-links> -->
+
+[@stdlib/random/base/beta]: https://github.com/stdlib-js/random-base-beta
+
+[@stdlib/random/iter/beta]: https://github.com/stdlib-js/random-iter-beta
+
+<!-- </related-links> -->
 
 </section>
 
